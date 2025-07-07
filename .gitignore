@@ -1,0 +1,29 @@
+# Build output
+build/
+*.out
+*.exe
+*.obj
+*.o
+*.a
+*.so
+*.dll
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# macOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Debug files
+*.dSYM/
